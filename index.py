@@ -18,7 +18,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 
-dataset_path = r"C:\Users\ABDULLAH COMPUTERS\Desktop\New folder\Plant Disease\archive_3\PlantVillage"
+dataset_path = r"C:\\Users\\ABDULLAH COMPUTERS\\Desktop\\New folder\\Plant Disease\\data\\PlantVillage"
 print(os.listdir(dataset_path))
 
 
